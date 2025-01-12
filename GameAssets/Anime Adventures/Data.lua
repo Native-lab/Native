@@ -68998,4 +68998,999 @@ return {
 			};
 		};
 	end)();
+	Worlds_AllLibrary = LPH_NO_VIRTUALIZE(function()
+		return {
+			["morioh"] = {
+				["unit_hit_modifiers"] = {
+					["rohan_evolved"] = 1;
+					["josuke_2_evolved"] = 1;
+					["kira"] = 1;
+					["josuke_2"] = 1;
+					["rohan"] = 1;
+					["koichi"] = 1;
+					["kira_evolved"] = 1;
+					["koichi_evolved"] = 1;
+				};
+				["recommended_level"] = 100;
+				["name"] = "Strange Town";
+				["levels"] = {
+					["1"] = {
+						["id"] = "morioh_level_1";
+					};
+					["3"] = {
+						["id"] = "morioh_level_3";
+					};
+					["2"] = {
+						["id"] = "morioh_level_2";
+					};
+					["5"] = {
+						["id"] = "morioh_level_5";
+					};
+					["4"] = {
+						["id"] = "morioh_level_4";
+					};
+				};
+				["_raid_item"] = "jojop4_coin";
+				["raid_world"] = true;
+				["map"] = "morioh";
+			};
+			["7ds"] = {
+				["map"] = "7ds_map";
+				["recommended_level"] = 100;
+				["name"] = "Fabled Kingdom";
+				["infinite"] = {
+					["id"] = "7ds_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "7ds_level_1";
+					};
+					["3"] = {
+						["id"] = "7ds_level_3";
+					};
+					["2"] = {
+						["id"] = "7ds_level_2";
+					};
+					["5"] = {
+						["id"] = "7ds_level_5";
+					};
+					["4"] = {
+						["id"] = "7ds_level_4";
+					};
+					["6"] = {
+						["id"] = "7ds_level_6";
+					};
+				};
+			};
+			["marineford"] = {
+				["map"] = "marineford";
+				["recommended_level"] = 40;
+				["name"] = "Navy Bay";
+				["infinite"] = {
+					["id"] = "marineford_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "marineford_level_1";
+					};
+					["3"] = {
+						["id"] = "marineford_level_3";
+					};
+					["2"] = {
+						["id"] = "marineford_level_2";
+					};
+					["5"] = {
+						["id"] = "marineford_level_5";
+					};
+					["4"] = {
+						["id"] = "marineford_level_4";
+					};
+					["6"] = {
+						["id"] = "marineford_level_6";
+					};
+				};
+			};
+			["aot"] = {
+				["map"] = "aot";
+				["recommended_level"] = 10;
+				["name"] = "Walled City";
+				["infinite"] = {
+					["id"] = "aot_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "aot_level_1";
+					};
+					["3"] = {
+						["id"] = "aot_level_3";
+					};
+					["2"] = {
+						["id"] = "aot_level_2";
+					};
+					["5"] = {
+						["id"] = "aot_level_5";
+					};
+					["4"] = {
+						["id"] = "aot_level_4";
+					};
+					["6"] = {
+						["id"] = "aot_level_6";
+					};
+				};
+			};
+			["demonslayer_raid_1"] = {
+				["map"] = "demonslayer_raid";
+				["recommended_level"] = 50;
+				["name"] = "Nightmare Train";
+				["levels"] = {
+					["1"] = {
+						["id"] = "demonslayer_raid_1";
+					};
+				};
+				["_raid_item"] = "rengoku_shard";
+				["raid_world"] = true;
+			};
+			["hueco"] = {
+				["map"] = "hueco";
+				["recommended_level"] = 60;
+				["name"] = "Spirit World";
+				["infinite"] = {
+					["id"] = "hueco_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "hueco_level_1";
+					};
+					["3"] = {
+						["id"] = "hueco_level_3";
+					};
+					["2"] = {
+						["id"] = "hueco_level_2";
+					};
+					["5"] = {
+						["id"] = "hueco_level_5";
+					};
+					["4"] = {
+						["id"] = "hueco_level_4";
+					};
+					["6"] = {
+						["id"] = "hueco_level_6";
+					};
+				};
+			};
+			["7ds_legend"] = {
+				["map"] = "7ds_map_night";
+				["recommended_level"] = 100;
+				["name"] = "Fabled Kingdom (Generals)";
+				["levels"] = {
+					["1"] = {
+						["id"] = "7ds_legend_1";
+					};
+					["3"] = {
+						["id"] = "7ds_legend_3";
+					};
+					["2"] = {
+						["id"] = "7ds_legend_2";
+					};
+				};
+				["legend_stage"] = true;
+			};
+			["bleach_legend"] = {
+				["map"] = "karakura";
+				["recommended_level"] = 100;
+				["name"] = "Spirit Invasion";
+				["levels"] = {
+					["1"] = {
+						["id"] = "bleach_legend_1";
+					};
+					["3"] = {
+						["id"] = "bleach_legend_3";
+					};
+					["2"] = {
+						["id"] = "bleach_legend_2";
+					};
+					["5"] = {
+						["id"] = "bleach_legend_5";
+					};
+					["4"] = {
+						["id"] = "bleach_legend_4";
+					};
+					["6"] = {
+						["id"] = "bleach_legend_6";
+					};
+				};
+				["legend_stage"] = true;
+			};
+			["overlord_legend"] = {
+				["unit_hit_modifiers"] = {
+					["shalltear"] = 1;
+					["demiurge"] = 1;
+					["albedo"] = 1;
+					["evileye_evolved"] = 1;
+					["shalltear_evolved"] = 1;
+					["ainz"] = 1;
+					["ainz_evolved"] = 1;
+					["narberal"] = 1;
+					["albedo_evolved"] = 1;
+					["demiurge_evolved"] = 1;
+					["evileye"] = 1;
+					["narberal_evolved"] = 1;
+				};
+				["recommended_level"] = 100;
+				["name"] = "Dungeon Throne";
+				["levels"] = {
+					["1"] = {
+						["id"] = "overlord_legend_1";
+					};
+					["3"] = {
+						["id"] = "overlord_legend_3";
+					};
+					["2"] = {
+						["id"] = "overlord_legend_2";
+					};
+				};
+				["legend_stage"] = true;
+				["map"] = "overlord_tomb";
+			};
+			["amegakure"] = {
+				["map"] = "amegakure";
+				["recommended_level"] = 100;
+				["name"] = "Rain Village";
+				["infinite"] = {
+					["id"] = "amegakure_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "amegakure_level_1";
+					};
+					["3"] = {
+						["id"] = "amegakure_level_3";
+					};
+					["2"] = {
+						["id"] = "amegakure_level_2";
+					};
+					["5"] = {
+						["id"] = "amegakure_level_5";
+					};
+					["4"] = {
+						["id"] = "amegakure_level_4";
+					};
+					["6"] = {
+						["id"] = "amegakure_level_6";
+					};
+				};
+			};
+			["berserk"] = {
+				["map"] = "berserk";
+				["recommended_level"] = 100;
+				["name"] = "Snowy Kingdom";
+				["infinite"] = {
+					["id"] = "berserk_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "berserk_level_1";
+					};
+					["3"] = {
+						["id"] = "berserk_level_3";
+					};
+					["2"] = {
+						["id"] = "berserk_level_2";
+					};
+					["5"] = {
+						["id"] = "berserk_level_5";
+					};
+					["4"] = {
+						["id"] = "berserk_level_4";
+					};
+					["6"] = {
+						["id"] = "berserk_level_6";
+					};
+				};
+			};
+			["opm"] = {
+				["map"] = "boros_ship";
+				["recommended_level"] = 100;
+				["name"] = "Alien Spaceship";
+				["infinite"] = {
+					["id"] = "opm_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "opm_level_1";
+					};
+					["3"] = {
+						["id"] = "opm_level_3";
+					};
+					["2"] = {
+						["id"] = "opm_level_2";
+					};
+					["5"] = {
+						["id"] = "opm_level_5";
+					};
+					["4"] = {
+						["id"] = "opm_level_4";
+					};
+					["6"] = {
+						["id"] = "opm_level_6";
+					};
+				};
+			};
+			["fate"] = {
+				["map"] = "fate";
+				["recommended_level"] = 100;
+				["name"] = "Mountain Temple";
+				["infinite"] = {
+					["id"] = "fate_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "fate_level_1";
+					};
+					["3"] = {
+						["id"] = "fate_level_3";
+					};
+					["2"] = {
+						["id"] = "fate_level_2";
+					};
+					["5"] = {
+						["id"] = "fate_level_5";
+					};
+					["4"] = {
+						["id"] = "fate_level_4";
+					};
+					["6"] = {
+						["id"] = "fate_level_6";
+					};
+				};
+			};
+			["jojo_legend"] = {
+				["map"] = "space_center";
+				["recommended_level"] = 100;
+				["name"] = "Space Center";
+				["levels"] = {
+					["1"] = {
+						["id"] = "jojo_legend_1";
+					};
+					["3"] = {
+						["id"] = "jojo_legend_3";
+					};
+					["2"] = {
+						["id"] = "jojo_legend_2";
+					};
+				};
+				["legend_stage"] = true;
+			};
+			["kai_planet"] = {
+				["unit_hit_modifiers"] = {
+					["vegeta_majin"] = 1;
+					["goku_ssj3"] = 1;
+					["vegeta_majin_evolved"] = 1;
+					["vegito"] = 1;
+					["buu"] = 1;
+					["goku_ssj3_evolved"] = 1;
+					["buu_evolved"] = 1;
+				};
+				["recommended_level"] = 100;
+				["name"] = "Sacred Planet";
+				["levels"] = {
+					["1"] = {
+						["id"] = "kai_planet_level_1";
+					};
+					["3"] = {
+						["id"] = "kai_planet_level_3";
+					};
+					["2"] = {
+						["id"] = "kai_planet_level_2";
+					};
+					["5"] = {
+						["id"] = "kai_planet_level_5";
+					};
+					["4"] = {
+						["id"] = "kai_planet_level_4";
+					};
+				};
+				["_raid_item"] = "majin_symbol";
+				["raid_world"] = true;
+				["map"] = "kai_planet";
+			};
+			["demonslayer"] = {
+				["map"] = "demonslayer";
+				["recommended_level"] = 20;
+				["name"] = "Snowy Town";
+				["infinite"] = {
+					["id"] = "demonslayer_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "demonslayer_level_1";
+					};
+					["3"] = {
+						["id"] = "demonslayer_level_3";
+					};
+					["2"] = {
+						["id"] = "demonslayer_level_2";
+					};
+					["5"] = {
+						["id"] = "demonslayer_level_5";
+					};
+					["4"] = {
+						["id"] = "demonslayer_level_4";
+					};
+					["6"] = {
+						["id"] = "demonslayer_level_6";
+					};
+				};
+			};
+			["namek"] = {
+				["map"] = "namek_cartoon";
+				["recommended_level"] = 0;
+				["name"] = "Planet Greenie";
+				["infinite"] = {
+					["id"] = "namek_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "namek_level_1";
+					};
+					["3"] = {
+						["id"] = "namek_level_3";
+					};
+					["2"] = {
+						["id"] = "namek_level_2";
+					};
+					["5"] = {
+						["id"] = "namek_level_5";
+					};
+					["4"] = {
+						["id"] = "namek_level_4";
+					};
+					["6"] = {
+						["id"] = "namek_level_6";
+					};
+				};
+			};
+			["naruto"] = {
+				["map"] = "naruto";
+				["recommended_level"] = 30;
+				["name"] = "Sand Village";
+				["infinite"] = {
+					["id"] = "naruto_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "naruto_level_1";
+					};
+					["3"] = {
+						["id"] = "naruto_level_3";
+					};
+					["2"] = {
+						["id"] = "naruto_level_2";
+					};
+					["5"] = {
+						["id"] = "naruto_level_5";
+					};
+					["4"] = {
+						["id"] = "naruto_level_4";
+					};
+					["6"] = {
+						["id"] = "naruto_level_6";
+					};
+				};
+			};
+			["overlord"] = {
+				["map"] = "overlord_tomb";
+				["recommended_level"] = 100;
+				["name"] = "Dungeon Throne";
+				["infinite"] = {
+					["id"] = "overlord_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "overlord_level_1";
+					};
+					["3"] = {
+						["id"] = "overlord_level_3";
+					};
+					["2"] = {
+						["id"] = "overlord_level_2";
+					};
+					["5"] = {
+						["id"] = "overlord_level_5";
+					};
+					["4"] = {
+						["id"] = "overlord_level_4";
+					};
+					["6"] = {
+						["id"] = "overlord_level_6";
+					};
+				};
+			};
+			["mha"] = {
+				["map"] = "mha_city";
+				["recommended_level"] = 100;
+				["name"] = "Ruined City";
+				["infinite"] = {
+					["id"] = "mha_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "mha_level_1";
+					};
+					["3"] = {
+						["id"] = "mha_level_3";
+					};
+					["2"] = {
+						["id"] = "mha_level_2";
+					};
+					["5"] = {
+						["id"] = "mha_level_5";
+					};
+					["4"] = {
+						["id"] = "mha_level_4";
+					};
+					["6"] = {
+						["id"] = "mha_level_6";
+					};
+				};
+			};
+			["mha_stain"] = {
+				["map"] = "mha_city_night";
+				["recommended_level"] = 100;
+				["name"] = "Ruined City (The Menace)";
+				["levels"] = {
+					["1"] = {
+						["id"] = "mha_stain";
+					};
+				};
+				["_no_raid_shop"] = true;
+				["raid_world"] = true;
+			};
+			["aot_raid_1"] = {
+				["map"] = "aot_raid";
+				["recommended_level"] = 40;
+				["name"] = "Walled City";
+				["levels"] = {
+					["1"] = {
+						["id"] = "aot_raid_1";
+					};
+				};
+				["_raid_item"] = "aot_shard";
+				["raid_world"] = true;
+			};
+			["west_city_frieza"] = {
+				["map"] = "west_city_frieza";
+				["recommended_level"] = 100;
+				["name"] = "Future City (Tyrant\'s Invasion)";
+				["levels"] = {
+					["1"] = {
+						["id"] = "west_city_frieza_level_1";
+					};
+					["3"] = {
+						["id"] = "west_city_frieza_level_3";
+					};
+					["2"] = {
+						["id"] = "west_city_frieza_level_2";
+					};
+					["5"] = {
+						["id"] = "west_city_frieza_level_5";
+					};
+					["4"] = {
+						["id"] = "west_city_frieza_level_4";
+					};
+				};
+				["_raid_item"] = "west_city_frieza_item";
+				["raid_world"] = true;
+			};
+			["amegakure_legend"] = {
+				["unit_hit_modifiers"] = {
+					["jiraiya"] = 1;
+					["konan_unit"] = 1;
+					["jiraiya_evolved"] = 1;
+					["naruto_sage"] = 1;
+					["konan_unit_evolved"] = 1;
+					["sasuke_3"] = 1;
+					["naruto_6tails"] = 1;
+					["sasuke_3_evolved"] = 1;
+					["pain_2"] = 1;
+					["pain_2_evolved"] = 1;
+				};
+				["recommended_level"] = 100;
+				["name"] = "Rain Village";
+				["levels"] = {
+					["1"] = {
+						["id"] = "amegakure_legend_1";
+					};
+					["3"] = {
+						["id"] = "amegakure_legend_3";
+					};
+					["2"] = {
+						["id"] = "amegakure_legend_2";
+					};
+				};
+				["legend_stage"] = true;
+				["map"] = "amegakure";
+			};
+			["dressrosa"] = {
+				["map"] = "dressrosa";
+				["recommended_level"] = 100;
+				["name"] = "Puppet Island";
+				["infinite"] = {
+					["id"] = "dressrosa_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "dressrosa_level_1";
+					};
+					["3"] = {
+						["id"] = "dressrosa_level_3";
+					};
+					["2"] = {
+						["id"] = "dressrosa_level_2";
+					};
+					["5"] = {
+						["id"] = "dressrosa_level_5";
+					};
+					["4"] = {
+						["id"] = "dressrosa_level_4";
+					};
+					["6"] = {
+						["id"] = "dressrosa_level_6";
+					};
+				};
+			};
+			["sao"] = {
+				["map"] = "sao";
+				["recommended_level"] = 100;
+				["name"] = "Virtual Dungeon";
+				["infinite"] = {
+					["id"] = "sao_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "sao_level_1";
+					};
+					["3"] = {
+						["id"] = "sao_level_3";
+					};
+					["2"] = {
+						["id"] = "sao_level_2";
+					};
+					["5"] = {
+						["id"] = "sao_level_5";
+					};
+					["4"] = {
+						["id"] = "sao_level_4";
+					};
+					["6"] = {
+						["id"] = "sao_level_6";
+					};
+				};
+			};
+			["marineford_sengoku"] = {
+				["map"] = "marineford";
+				["recommended_level"] = 100;
+				["name"] = "Navy\'s Ford (Buddha)";
+				["levels"] = {
+					["1"] = {
+						["id"] = "marineford_sengoku";
+					};
+				};
+				["_no_raid_shop"] = true;
+				["raid_world"] = true;
+			};
+			["naruto_raid_1"] = {
+				["map"] = "naruto_raid";
+				["recommended_level"] = 40;
+				["name"] = "Sand Village";
+				["levels"] = {
+					["1"] = {
+						["id"] = "naruto_raid_1";
+					};
+				};
+				["_raid_item"] = "naruto_pts_shard";
+				["raid_world"] = true;
+			};
+			["tokyo_ghoul"] = {
+				["map"] = "tokyo_ghoul";
+				["recommended_level"] = 50;
+				["name"] = "Fiend City";
+				["infinite"] = {
+					["id"] = "tokyoghoul_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "tokyoghoul_level_1";
+					};
+					["3"] = {
+						["id"] = "tokyoghoul_level_3";
+					};
+					["2"] = {
+						["id"] = "tokyoghoul_level_2";
+					};
+					["5"] = {
+						["id"] = "tokyoghoul_level_5";
+					};
+					["4"] = {
+						["id"] = "tokyoghoul_level_4";
+					};
+					["6"] = {
+						["id"] = "tokyoghoul_level_6";
+					};
+				};
+			};
+			["west_city"] = {
+				["map"] = "west_city";
+				["recommended_level"] = 90;
+				["name"] = "Future City";
+				["levels"] = {
+					["1"] = {
+						["id"] = "west_city_raid";
+					};
+				};
+				["_raid_item"] = "westcity_cell";
+				["raid_world"] = true;
+			};
+			["entertainment_district"] = {
+				["map"] = "entertainment_district";
+				["recommended_level"] = 100;
+				["name"] = "Cursed Festival";
+				["levels"] = {
+					["1"] = {
+						["id"] = "entertainment_district_level_1";
+					};
+					["3"] = {
+						["id"] = "entertainment_district_level_3";
+					};
+					["2"] = {
+						["id"] = "entertainment_district_level_2";
+					};
+					["5"] = {
+						["id"] = "entertainment_district_level_5";
+					};
+					["4"] = {
+						["id"] = "entertainment_district_level_4";
+					};
+				};
+				["_raid_item"] = "entertainment_district_item";
+				["raid_world"] = true;
+			};
+			["sao_legend"] = {
+				["unit_hit_modifiers"] = {
+					["heathcliff_evolved"] = 0.5;
+					["heathcliff"] = 0.5;
+					["leafa_evolved"] = 0.5;
+					["asuna"] = 0.5;
+					["klein_evolved"] = 0.5;
+					["kirito"] = 0.5;
+					["asuna_evolved"] = 0.5;
+					["klein"] = 0.5;
+					["kirito_evolved"] = 0.5;
+					["leafa"] = 0.5;
+				};
+				["recommended_level"] = 100;
+				["name"] = "Virtual Dungeon (Bosses)";
+				["levels"] = {
+					["1"] = {
+						["id"] = "sao_legend_1";
+					};
+					["3"] = {
+						["id"] = "sao_legend_3";
+					};
+					["2"] = {
+						["id"] = "sao_legend_2";
+					};
+				};
+				["legend_stage"] = true;
+				["map"] = "sao_legend";
+			};
+			["clover_legend"] = {
+				["map"] = "hage_elf";
+				["recommended_level"] = 100;
+				["name"] = "Magic Hills (Elf Invasion)";
+				["levels"] = {
+					["1"] = {
+						["id"] = "clover_legend_1";
+					};
+					["3"] = {
+						["id"] = "clover_legend_3";
+					};
+					["2"] = {
+						["id"] = "clover_legend_2";
+					};
+				};
+				["legend_stage"] = true;
+			};
+			["magnolia"] = {
+				["map"] = "magnolia";
+				["recommended_level"] = 80;
+				["name"] = "Magic Town";
+				["infinite"] = {
+					["id"] = "magnolia_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "magnolia_level_1";
+					};
+					["3"] = {
+						["id"] = "magnolia_level_3";
+					};
+					["2"] = {
+						["id"] = "magnolia_level_2";
+					};
+					["5"] = {
+						["id"] = "magnolia_level_5";
+					};
+					["4"] = {
+						["id"] = "magnolia_level_4";
+					};
+					["6"] = {
+						["id"] = "magnolia_level_6";
+					};
+				};
+			};
+			["jjk"] = {
+				["map"] = "jjk";
+				["recommended_level"] = 90;
+				["name"] = "Haunted Academy";
+				["infinite"] = {
+					["id"] = "jjk_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "jjk_level_1";
+					};
+					["3"] = {
+						["id"] = "jjk_level_3";
+					};
+					["2"] = {
+						["id"] = "jjk_level_2";
+					};
+					["5"] = {
+						["id"] = "jjk_level_5";
+					};
+					["4"] = {
+						["id"] = "jjk_level_4";
+					};
+					["6"] = {
+						["id"] = "jjk_level_6";
+					};
+				};
+			};
+			["uchiha"] = {
+				["map"] = "uchiha_hideout";
+				["recommended_level"] = 100;
+				["name"] = "Storm Hideout";
+				["levels"] = {
+					["1"] = {
+						["id"] = "uchiha_level_1";
+					};
+					["3"] = {
+						["id"] = "uchiha_level_3";
+					};
+					["2"] = {
+						["id"] = "uchiha_level_2";
+					};
+					["5"] = {
+						["id"] = "uchiha_level_5";
+					};
+					["4"] = {
+						["id"] = "uchiha_level_4";
+					};
+				};
+				["_raid_item"] = "uchiha_item";
+				["raid_world"] = true;
+			};
+			["mha_legend"] = {
+				["map"] = "mha_city_night";
+				["recommended_level"] = 100;
+				["name"] = "Ruined City (Midnight)";
+				["levels"] = {
+					["1"] = {
+						["id"] = "mha_legend_1";
+					};
+					["3"] = {
+						["id"] = "mha_legend_3";
+					};
+					["2"] = {
+						["id"] = "mha_legend_2";
+					};
+					["5"] = {
+						["id"] = "mha_legend_5";
+					};
+					["4"] = {
+						["id"] = "mha_legend_4";
+					};
+					["6"] = {
+						["id"] = "mha_legend_6";
+					};
+				};
+				["legend_stage"] = true;
+			};
+			["hxhant"] = {
+				["map"] = "hxhant";
+				["recommended_level"] = 70;
+				["name"] = "Ant Kingdom";
+				["infinite"] = {
+					["id"] = "hxhant_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "hxhant_level_1";
+					};
+					["3"] = {
+						["id"] = "hxhant_level_3";
+					};
+					["2"] = {
+						["id"] = "hxhant_level_2";
+					};
+					["5"] = {
+						["id"] = "hxhant_level_5";
+					};
+					["4"] = {
+						["id"] = "hxhant_level_4";
+					};
+					["6"] = {
+						["id"] = "hxhant_level_6";
+					};
+				};
+			};
+			["clover"] = {
+				["map"] = "hage";
+				["recommended_level"] = 100;
+				["name"] = "Magic Hills";
+				["infinite"] = {
+					["id"] = "clover_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "clover_level_1";
+					};
+					["3"] = {
+						["id"] = "clover_level_3";
+					};
+					["2"] = {
+						["id"] = "clover_level_2";
+					};
+					["5"] = {
+						["id"] = "clover_level_5";
+					};
+					["4"] = {
+						["id"] = "clover_level_4";
+					};
+					["6"] = {
+						["id"] = "clover_level_6";
+					};
+				};
+			};
+			["jojo"] = {
+				["map"] = "space_center";
+				["recommended_level"] = 100;
+				["name"] = "Space Center";
+				["infinite"] = {
+					["id"] = "jojo_infinite";
+				};
+				["levels"] = {
+					["1"] = {
+						["id"] = "jojo_level_1";
+					};
+					["3"] = {
+						["id"] = "jojo_level_3";
+					};
+					["2"] = {
+						["id"] = "jojo_level_2";
+					};
+					["5"] = {
+						["id"] = "jojo_level_5";
+					};
+					["4"] = {
+						["id"] = "jojo_level_4";
+					};
+					["6"] = {
+						["id"] = "jojo_level_6";
+					};
+				};
+			};
+		};
+	end)();
 }
