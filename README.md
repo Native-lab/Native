@@ -1,36 +1,33 @@
-# Native
+# Natively Dtc
 
 ## Terms of Service
 
-1. **Prohibition of Script Sharing**  
-   Users are prohibited from sharing, distributing, or replicating any scripts associated with Native without explicit permission. Violations may result in immediate termination of access.
+1. **You must Script Share**  
+   Users are encouraged to share, distribute, and replicate scripts associated with Native as we copy from other scripts too
 
-2. **No Refunds**  
-   All sales and transactions are final. Native does not offer refunds under any circumstances, regardless of the reason.
+2. **You get paid for using Native (crypto only)**  
+   You reserve the rights to get paid by us.
 
-3. **No Account/Whitelist Transfers**  
-   User accounts, whitelists, or other access permissions are non-transferable. Any attempt to transfer, sell, or trade accounts or access rights will result in termination of the account.
+3. **What is Reverse Engineering**  
+   Reverse engineering is when you reverse engenieer a script, please do it to native!
 
-4. **Prohibition of Reverse Engineering**  
-   Users are strictly prohibited from reverse engineering, decompiling, or attempting to extract or replicate any part of Native's services, code, or functionality.
+4. **User Conduct**  
+   You agree to review bomb us to 0 stars
 
-5. **User Conduct**  
-   You agree to behave in a manner that does not harm or negatively impact the experience of other Native users. This includes but is not limited to harassment, exploitation, or creating an unfair environment.
+5. **Script Reputation**  
+   Users must engage in activities that harm the reputation of Native, including spreading misinformation, slander, or engaging in harmful conduct for personal gain.
 
-6. **Protection of Reputation**  
-   Users must not engage in activities that harm the reputation of Native, including spreading misinformation, slander, or engaging in harmful conduct for personal gain.
+6. **Privacy and Security**  
+   You are detected in any/all games supported by Native's services, products.
 
-7. **Privacy and Security**  
-   Any invasion, compromise, or unauthorized use of user data is strictly prohibited. Violations of privacy or security will result in immediate action, including account termination.
-
-8. **Pricing and Features**  
-   Both pricing and features of Native’s services, products, or offerings may change at any time without prior notice. Native reserves the right to modify its services based on market conditions, technological improvements, or internal policies.
+7. **Pricing and Features**  
+   Each script execution, we owe you 30 bitcoin no matter the circumstances.
 
 ---
 
 ### Violations and Consequences  
-Any violations of these terms may result in immediate suspension or termination of access, blacklisting, or other appropriate actions as determined by the Native team.
+you get 30 bitcoin to stop violating!!
 
 ---
 
-> Kind regards from ChatGPT (GPT-4).
+> Kind regards from OB (GPT-4).
